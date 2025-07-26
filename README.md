@@ -21,4 +21,4 @@ Fully customizable for any business sector, no technical lock-in
 Simple to update: business logic lives in human-readable documents, not in code
 
 ## Curious how a micro-AI agent could help your business? 
-[Contact me for a demo](https://www.linkedin.com/in/virginia-levy-abulafia/) | [Try the Demo](https://huggingface.co/spaces/virginialevy/artigiano-smart)
+[Contact me](https://www.linkedin.com/in/virginia-levy-abulafia/) | [Try the Demo](https://huggingface.co/spaces/virginialevy/artigiano-smart)
