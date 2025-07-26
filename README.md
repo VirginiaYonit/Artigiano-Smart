@@ -14,5 +14,11 @@ Repeatable processes, fewer errors, and greater autonomy for business owners. Bu
 ## Outcome
 Agent Artigiano bridges the gap between “AI for big enterprises” and the real needs of artisans and small businesses. Leveraging the document-as-implementation pattern and modular tool design makes this solution sustainable, flexible, and always aligned with real-world priorities.
 
-## Want to see more?
-[Contact me](https://www.linkedin.com/in/virginia-levy-abulafia/) | [Try the Demo](https://huggingface.co/spaces/virginialevy/artigiano-smart)
+## Why it matters
+
+Based on agent design best practices (the “MATE” principles: Model, Action, Token, Environment)-
+Fully customizable for any business sector, no technical lock-in
+Simple to update: business logic lives in human-readable documents, not in code
+
+## Curious how a micro-AI agent could help your business? 
+[Contact me for a demo](https://www.linkedin.com/in/virginia-levy-abulafia/) | [Try the Demo](https://huggingface.co/spaces/virginialevy/artigiano-smart)
