@@ -1,5 +1,7 @@
 # Agent Artigiano
 
+<img width="744" height="524" alt="image" src="https://github.com/user-attachments/assets/86c537d3-678e-4426-b7e1-53877fdbe957" />
+
 A simple, modular AI agent for small businesses.  
 No code required — business logic lives in documents, not in code.
 
