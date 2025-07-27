@@ -40,7 +40,11 @@ It combines Generative AI (text), image integration, and layout with **ReportLab
 **Use case:**  
 This tool fits within the Agent Artigiano ecosystem as a specialized module for e-commerce or catalog-based businesses who need to **generate high-quality product communication** quickly, efficiently, and without technical skills.
 
-> Coming soon: direct integration with the Agent interface for “on-demand PDF generation”.
+The PDF Generator is already fully integrated with Agent Artigiano and can be used to create elegant, multilingual product sheets on demand, directly from the agent’s logic, no coding required.
+
+⚙️ The underlying code for the PDF Generator is not included in this repository.
+The tool is fully functional and demonstrated in the sample files below.
+Agent Artigiano is licensed under MIT, while the PDF module remains proprietary for now.
 
 ---
 
