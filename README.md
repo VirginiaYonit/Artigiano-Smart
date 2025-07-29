@@ -55,5 +55,36 @@ Simple to update: business logic lives in human-readable documents, not in code.
 
 ---
 
+## 🧭 Methodology – How Agent Artigiano Was Built
+Agent Artigiano is the result of a design-driven AI process grounded in transparency, modularity, and real-world usability.
+Rather than following a top-down “developer-only” approach, I worked iteratively using:
+
+🧩 Modular architecture: tools are built independently and integrated via documents
+
+🗣️ Prompt engineering and pattern testing: using the Persona Pattern to simulate expert reasoning
+
+📄 Document-as-code: all business rules are defined in natural language documents
+
+👂 Feedback loop: tested with real use cases and iteratively refined based on constraints and needs
+
+This approach reflects the principles of civic testing and responsible AI design: intelligibility, flexibility, and human-in-the-loop collaboration.
+
+---
+
+🤖 Built with ChatGPT – My Invisible Partner
+Agent Artigiano was developed in close collaboration with ChatGPT, which acted as:
+
+A coding assistant, helping translate complex logic into Python tools
+
+A co-designer, supporting architectural and UX choices
+
+A testing partner, evaluating reasoning patterns and generating structured prompts
+
+A documentation sparring partner, helping write clear, useful, and honest technical descriptions
+
+This README — and many other parts of the project — are the result of human–AI collaboration, grounded in reflection, iteration, and transparency.
+
+---
+
 ### Curious how a micro-AI agent could help your business?  
 [Contact me](https://www.linkedin.com/in/virginia-levy-abulafia/) | [Try the Demo](https://huggingface.co/spaces/virginialevy/artigiano-smart)
